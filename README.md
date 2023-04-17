@@ -1,32 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Pooja Patel and I'm a Software Engineer, from India.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning nodejs<br>🎯 Goals: to be the finest programmer<br>🎲 Fun fact: I love chai.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+ <div align="center">
+   
+  <a href="" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-red?style=for-the-badge"></a>
+  <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-###
+<!--  
+<details>
+  <summary>View my GitHub Activity & Stats</summary>
+
+  | | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" src="./metrics.svg">  |  <img width="1604" src="./metrics.two.svg">|
+  
+</details> -->
+
+<h1 align="center"> <img src="wave.gif" width="30px"> Hi, I'm Pooja Patel</h1>
+<h3 align="center">Software Engineer | Data Lover | Lifelong Learner | Woman in Tech 👩🏻‍💻</h3>
+
+Hello World! Welcome to `poojapatel`. I'm a Software Engineer who is passionate about working with data and bringing data insights closer to business users through the help of technology. 
+
+👩🏻‍💻 I have experience in data engineering, big data, data science, data warehouse, back-end databases for web application on GCP, Azure and AWS. My tech stacks are Python, SQL, Linux, PySpark, Kafka, Airflow, Tableau, Kubernetes, BigQuery, Redshift, and Azure Synapse Analytics
+
+✨ I’m a self-taught developer who enjoy the ongoing pursuit of knowledge and skills outside of the formal education system. I love collaborating with people from different background and experience in order to achieve organizational goals. Besides programming, I like cooking, gardening, hiking, and blogging.
